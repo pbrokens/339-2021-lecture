@@ -62,8 +62,9 @@ nav a:hover, nav a:focus{
 
 .hero{
 	min-height:30rem;
-	/* background-image:url(../img/molteni-hero-1200.jpg); */
+	background-image:url(../img/molteni-hero-1200.jpg);
 	background-size:cover;
+	padding:2rem;
 }
 .wrapper{
 	width:clamp(16rem, 100vw, 90rem);
