@@ -100,7 +100,7 @@ nav a:hover, nav a:focus{
 }
 
 header{
-	background-color:#ccc;
+	background-color:#000;
 	display:grid;
 	grid-template-columns:repeat(8, 1fr);
 	grid-template-rows:1fr auto;
