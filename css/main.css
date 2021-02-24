@@ -100,7 +100,7 @@ nav a:hover, nav a:focus{
 }
 
 header{
-	background-color:#f4f4f4;
+	background-color:#000;
 	/* we changed the background color here. Cause its great */
 	display:grid;
 	grid-template-columns:repeat(8, 1fr);
